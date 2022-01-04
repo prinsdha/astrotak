@@ -1,4 +1,4 @@
-# astrotak
+# Astrotak
 
 A new Flutter project.
 
